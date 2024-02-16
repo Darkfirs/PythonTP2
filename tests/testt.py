@@ -1,5 +1,5 @@
 import pytest
 
 
-def test_t(a, b):
-    return a + b
+def test_dummy():
+    assert 2 + 2 == 4
