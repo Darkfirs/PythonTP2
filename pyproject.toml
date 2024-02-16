@@ -1,7 +1,7 @@
 [metadata]
-name = "py_template"
-author = "deepvk"
-url = "https://github.com/deepvk/py_template"
+name = "PythonTP2"
+author = "darkfirs"
+url = "https://github.com/Darkfirs/PythonTP2.git"
 
 [tool.isort]
 profile = "black"
